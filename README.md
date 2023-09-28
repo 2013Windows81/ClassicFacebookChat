@@ -7,6 +7,10 @@
 
 </div>
 
+# Screenshots
+
+<img src="https://userstyles.world/preview/12261/0.webp"/>
+
 # :notebook_with_decorative_cover: Table of Contents
 
 - [About the Project](#star2-about-the-project)
