@@ -27,7 +27,7 @@
 
 ### Installations
 
-1. <strong>Install [Stylus Extensions](https://github.com/openstyles/stylus#releases)</strong>
+1. <strong>Install [Stylus Extensions](https://github.com/openstyles/stylus#releases) </strong>
 
 2. <strong>Open the [file]( )</strong>
    
