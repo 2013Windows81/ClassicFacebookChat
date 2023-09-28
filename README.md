@@ -29,7 +29,7 @@
 
 1. <strong>Install [Stylus Extensions](https://github.com/openstyles/stylus#releases) </strong>
 
-2. <strong>Open the [file]( )</strong>
+2. <strong>Open the [file](https://userstyles.world/api/style/12261.user.css)</strong>
    
 3. <strong>If Stylus Pop-up, click Install and restart the Facebook, and you're done</strong>
 
